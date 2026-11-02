@@ -9,7 +9,6 @@ Data cleaning is the process of preparing data for analysis by removing or modif
 
 # Algorithm
 STEP 1: Read the given Data
-https://colab.research.google.com/drive/1f4lSmZGS-lUIM5vKXQ5hp3UhFFE_pg8U#scrollTo=d9IMQXNQzvwP&fullscreenOutput=true
 
 STEP 2: Get the information about the data
 
