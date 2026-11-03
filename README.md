@@ -118,6 +118,7 @@ if df is not None:
 <img width="454" height="394" alt="image" src="https://github.com/user-attachments/assets/9c2bee3a-2715-4408-bcd5-dbe691776a8b" />
 
 
+
 ## CODING:
 ## IQR AND Z-SCORE ON ALL NUMERICAL COLUMNS:
 ```
@@ -163,6 +164,7 @@ if df is not None:
 <img width="430" height="419" alt="image" src="https://github.com/user-attachments/assets/64e7934a-467c-46e8-bb2c-24beee0c0f01" />
 
 
+
 ## CODING:
 ## CLEAN NUMERICAL AND CATEGORICAL DATA:
 ```
@@ -199,11 +201,12 @@ if df is not None:
 
 print("\nALL AVAILABLE ACTIVITIES COMPLETED")
 ```
-## OUTPUT:
-<img width="375" height="403" alt="image" src="https://github.com/user-attachments/assets/00462755-d7a7-4bf3-84b5-58121d6416af" />
+## OUTPUT:  
+<img width="375" height="403" alt="image" src="https://github.com/user-attachments/assets/00462755-d7a7-4bf3-84b5-58121d6416af" />  
+
 <img width="455" height="392" alt="image" src="https://github.com/user-attachments/assets/ef10d3ff-d2b4-4db6-92ea-40005ae8bf4a" />
 
-## INTERPRETATION:
+## INTERPRETATION:  
 
 Data Science involves collecting, cleaning, and analyzing data to obtain meaningful results. It handles missing values using median and mode, removes duplicate records, identifies inconsistencies, and detects outliers using IQR and Z-score methods. Finally, it helps in understanding data and making better decisions.
 
